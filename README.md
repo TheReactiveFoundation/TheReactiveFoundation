@@ -1,6 +1,5 @@
-### The Reactive Foundation
 ![salt](https://github.com/TheReactiveFoundation/TheReactiveFoundation/assets/150565573/0fe41b9d-d62b-41cb-988b-1fec3628c0de)
-
+### The Reactive Foundation
 
 
 <!--
