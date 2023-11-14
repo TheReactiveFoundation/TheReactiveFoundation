@@ -3,6 +3,16 @@
 </p>
 
 # The Reactive Foundation
+The Reactive Foundation is a hard-working development team
+that tinkers with different languages as well as with a vision in
+mind for the future! With The Reactive Foundation owning
+ReactiveGamesX and R.G.D.A.O.A we also have set to make gaming
+a fun thing of the future!
+
+# Current Projects
+
+Project Violet
+Project Ruby
 
 
 <!--
